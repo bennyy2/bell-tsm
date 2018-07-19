@@ -1,0 +1,17 @@
+body{
+    color: #8c8c8c;
+    text-align: center;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    clear: both;
+}
+
+.container{
+    margin-bottom: 10%;
+}
+
