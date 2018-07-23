@@ -11,7 +11,14 @@ footer {
     clear: both;
 }
 
-.container{
+.body{
     margin-bottom: 10%;
 }
+
+.brand{
+    padding: 40px;
+    vertical-align: middle;
+}
+
+
 

@@ -6,7 +6,8 @@ if (!defined('BASEPATH'))
 class HomeController extends CI_Controller {
 
     public function index() {
-        $this->load->view('hino');
+        $this->load->view('product');
     }
 
 }
+
