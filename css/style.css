@@ -15,6 +15,10 @@ footer {
     margin-bottom: 10%;
 }
 
+body label{
+    color: black;
+}
+
 .brand{
     padding: 40px;
     vertical-align: middle;
